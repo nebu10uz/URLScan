@@ -90,6 +90,7 @@ def controller():
 
 def print_alert(scanner, tab):
     '''Print only detected scan results.
+
     If the -t option is used, open new browser
     tabs for each link provided.
 
