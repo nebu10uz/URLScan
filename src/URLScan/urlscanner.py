@@ -6,7 +6,7 @@ Created on May 22, 2012
 @summary: A class module to connect to URL scan services and parse
           results.
 @contact: kelvin@kelvinlomboy.com
-@requires: requests and BeautifulSoup modules
+@requires: Python 2.7.2+, requests and bs4 modules
 
 '''
 
