@@ -145,8 +145,8 @@ def main():
     objects depending on the type of URL. The creation
     of the objects initiates a scan using IPVoid or
     URLvoid services and some data, along with the
-    results for each URL, are extracted and printed to
-    the screen.
+    results for each URL which are then extracted and 
+    printed to the screen.
 
     '''
     proxy, tab, urls = controller()
