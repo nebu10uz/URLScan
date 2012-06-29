@@ -5,6 +5,7 @@ Created on May 22, 2012
 @version: v0.1
 @summary: A tool for detecting malicious URL
 @contact: kelvin@kelvinlomboy.com
+@requires: Python 2.7.2+
 
 '''
 
